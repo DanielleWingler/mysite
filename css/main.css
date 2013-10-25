@@ -13,7 +13,8 @@
 html, body { height: 100%; }
 
 body {
-  background-color: blue;
+  background: #A4CFBE;
+  color: #6C6E58;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
